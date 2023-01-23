@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2b0ea972-905a-4aad-befe-d3e185ea9d49/AppServices/subscriptions/2b0ea972-905a-4aad-befe-d3e185ea9d49/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/iotmaster",
+    "appService.deploySubpath": "."
+}
